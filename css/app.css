@@ -23,11 +23,18 @@ tr:nth-child(odd) td {
   background: #efefef;
 }
 /*---- map -------*/
-#map {
-  padding: 20px;
-  height: 500px;
-  width: 500px;
-  background-color:#d8d8d8;
-}
+  /*#map {
+    padding: 20px;
+    height: 500px;
+    width: 500px;
+    background-color:#d8d8d8;
+  }
 
-p { margin : 0; }
+  p { margin : 0; }*/
+
+/*-------google map--------*/
+
+ #map {
+  height: 400px;
+  width: 100%;
+ }
